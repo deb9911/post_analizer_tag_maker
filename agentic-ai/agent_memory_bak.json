@@ -1,0 +1,34 @@
+[
+  {
+    "type": "input",
+    "content": "say hello and tell me the time and save note buy milk"
+  },
+  {
+    "type": "action",
+    "content": "Echo: say hello and tell me the time and save note buy milk"
+  },
+  {
+    "type": "action",
+    "content": "Current time is 15:30:00"
+  },
+  {
+    "type": "action",
+    "content": "Note saved."
+  },
+  {
+    "type": "input",
+    "content": "say hello and tell me the time and save note buy milk"
+  },
+  {
+    "type": "action",
+    "content": "Echo: say hello and tell me the time and save note buy milk"
+  },
+  {
+    "type": "action",
+    "content": "Current time is 15:30:05"
+  },
+  {
+    "type": "action",
+    "content": "Note saved."
+  }
+]
